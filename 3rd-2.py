@@ -23,7 +23,7 @@ try:
 
     iframe = d.find_element_by_id('cafe_main')
     d.switch_to.frame(iframe)
-
+    # d.switch_to.default_content()
     current_page = 1
     links = []
     while True:

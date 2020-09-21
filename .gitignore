@@ -6,3 +6,4 @@ chromedriver
 **/*.csv
 Chrome
 .vscode
+.ipynb_checkpoints
